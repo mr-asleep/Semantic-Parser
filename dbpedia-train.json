@@ -1,0 +1,15 @@
+[
+  {"utterance": "Obama lives in?", "targetFormula": "((reverse fb:prop.prop.location) fb:en.Barack_Obama)"},
+  {"utterance": "population of Obama?", "targetFormula": "(fb:prop.prop.population fb:en.Obama_City)"},
+  {"utterance": "Obama was known as?", "targetFormula": "((reverse fb:prop.prop.otherName) fb:en.Obama_Mountain)"},
+  {"utterance": "height of Obama?", "targetFormula": "(fb:prop.prop.height fb:en.Barack_Obama)"},
+  {"utterance": "height of Obama?", "targetFormula": "(fb:prop.prop.height fb:en.Obama_Mountain)"},
+  {"utterance": "Obama lies in?", "targetFormula": "((reverse fb:prop.prop.place) fb:en.Obama_City)"},
+  {"utterance": "Obama lies in?", "targetFormula": "((reverse fb:prop.prop.place) fb:en.Obama_Mountain)"},
+  {"utterance": "full name of Obama?", "targetFormula": "(fb:prop.prop.completeName fb:en.Barack_Obama)"},
+  {"utterance": "full name of Obama?", "targetFormula": "(fb:prop.prop.completeName fb:en.Obama_City)"},
+  {"utterance": "popularity of Obama?", "targetFormula": "(fb:prop.prop.popularity fb:en.Obama_City)"},
+  {"utterance": "popularity of Obama?", "targetFormula": "(fb:prop.prop.popularity fb:en.Obama_Mountain)"},
+  {"utterance": "popularity of Obama?", "targetFormula": "(fb:prop.prop.popularity fb:en.Barack_Obama)"},
+  {"utterance": "wife of Obama?", "targetFormula": "(fb:prop.prop.wife fb:en.Barack_Obama)"}
+]

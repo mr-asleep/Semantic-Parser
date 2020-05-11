@@ -1,0 +1,4 @@
+[
+  {"utterance": "Obama lives in?", "targetFormula": "((reverse fb:prop.prop.location) fb:en.Barack_Obama)"},
+  {"utterance": "population of Obama?", "targetFormula": "(fb:prop.prop.population fb:en.Obama_City)"}
+]

@@ -1,0 +1,5 @@
+./run @mode=simple -Grammar.inPaths dbpedia/dbpedia.grammar -SimpleLexicon.inPaths dbpedia/dbpedia.lexicon -FeatureExtractor.featureDomains rule opCount constant whType span lemmaAndBinaries denotation lexAlign joinPos skipPos -Dataset.inPaths train:dbpedia/dbpedia-train.json test:dbpedia/dbpedia-test.json -Learner.maxTrainIters 3 -exec.execDir dbpedia/output/
+
+./run @mode=simple -Grammar.inPaths dbpedia/dbpedia.grammar -SimpleLexicon.inPaths dbpedia/dbpedia.lexicon -FeatureExtractor.featureDomains rule opCount constant whType span lemmaAndBinaries denotation lexAlign joinPos skipPos -Dataset.inPaths train:dbpedia/dbpedia-train.json test:dbpedia/dbpedia-test.json -Learner.maxTrainIters 1 -exec.execDir dbpedia/output/ -Builder.parser FloatingParser
+
+./run @mode=simple-freebase-nocache @sparqlserver=localhost:3001 -Grammar.inPaths dbpedia/dbpedia.grammar -SimpleLexicon.inPaths dbpedia/dbpedia.lexicon -FeatureExtractor.featureDomains rule opCount constant whType span lemmaAndBinaries denotation lexAlign joinPos skipPos -Dataset.inPaths test:dbpedia/que.json -Learner.maxTrainIters 0 -SparqlExecutor.verbose 10 -exec.execDir dbpedia/out/

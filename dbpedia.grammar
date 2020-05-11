@@ -1,0 +1,47 @@
+(rule $Unary ($PHRASE) (SimpleLexiconFn (type fb:type.any)))
+(rule $Binary ($PHRASE) (SimpleLexiconFn (type (-> fb:type.any fb:type.any))))
+
+(rule $Set ($Unary $Binary) (lambda y (lambda x ((reverse (var x)) (var y)))))
+(rule $Set ($Binary of $Unary) (lambda x (lambda y ((reverse (var x)) (var y)))))
+
+(rule $Set ($Binary $Unary) (lambda y (lambda x ((var y) (var x)))))
+(rule $Set ($Unary of $Binary) (lambda x (lambda y ((var y) (var x)))))
+
+(rule $Set ($Unary (of optional) $Unary) (MergeFn and))
+
+(rule $Set ($Unary (of optional) $Set) (MergeFn and))
+(rule $Set ($Binary $Set) (JoinFn forward))
+(rule $Set ($Binary of $Set) (lambda x (lambda y ((reverse (var x)) (var y)))))
+
+(rule $ROOT ((name optional) (list optional) (of optional) $Set (? optional) (. optional) (! optional)) (IdentityFn))
+
+############################################################ 
+# FOR different Qs
+(rule $ROOT (how many (of optional) $Set (? optional)) (lambda x (count (var x))))
+(rule $ROOT (count (the optional) (number optional) (of optional) $Set (? optional)) (lambda x (count (var x))))
+(rule $ROOT (number (of optional) $Set (? optional)) (lambda x (count (var x))))
+
+############################################################
+(rule $Set (greater than (the optional) $Unary $Binary) (lambda y (lambda x ((var x) (> ((reverse (var x)) (var y)))))))
+(rule $Set (greater than (the optional) $Binary of $Unary) (lambda x (lambda y ((var x) (> ((reverse (var x)) (var y)))))))
+(rule $Set (greater than (the optional) $Binary $Unary) (lambda y (lambda x ((reverse (var y)) (> ((var y) (var x)))))))
+(rule $Set (atleast (the optional) $Binary $Unary) (lambda y (lambda x ((reverse (var y)) (>= ((var y) (var x)))))))
+(rule $Set (lesser than (the optional) $Unary $Binary) (lambda y (lambda x ((var x) (< ((reverse (var x)) (var y)))))))
+(rule $Set (lesser than (the optional) $Binary of $Unary) (lambda x (lambda y ((var x) (< ((reverse (var x)) (var y)))))))
+(rule $Set (lesser than (the optional) $Binary $Unary) (lambda y (lambda x ((reverse (var y)) (< ((var y) (var x)))))))
+(rule $Set (atmost (the optional) $Binary $Unary) (lambda y (lambda x ((reverse (var y)) (<= ((var y) (var x)))))))
+
+############################################################ 
+# FOR Q's THAT REQUIRE INTERSECTION
+(rule $Set ($Set and $Set) (MergeFn and))
+(rule $Set ($Set that $Set) (MergeFn and))
+(rule $Set ($Set and $Unary) (MergeFn and))
+(rule $Set ($Unary that $Set) (MergeFn and))
+############################################################ 
+
+############################################################ 
+# NEGATORY Q's
+(rule $Set (not $Set) (lambda x (not (var x))))
+(rule $Set (not $Unary) (lambda x (not (var x))))
+(rule $Set ($Unary not $Binary) (lambda y (lambda x (not ((reverse (var x)) (var y))))))
+############################################################ 

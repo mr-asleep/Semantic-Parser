@@ -1,0 +1,981 @@
+{"lexeme": "IYCM", "formula": "fb:phrase.Youth_Climate_Movement"}
+{"lexeme": "stand", "formula": "fb:phrase.Stand_By"}
+{"lexeme": "stand", "formula": "fb:phrase.Stand_on_It"}
+{"lexeme": "stand", "formula": "fb:phrase.Stand!"}
+{"lexeme": "movies", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "movies", "formula": "fb:phrase.prop.picture"}
+{"lexeme": "movies", "formula": "fb:phrase.prop.film"}
+{"lexeme": "Liz Taylor", "formula": "fb:phrase.Liz:_The_Elizabeth_Taylor_Story"}
+{"lexeme": "Liz Taylor", "formula": "fb:phrase.Elizabeth_Taylor"}
+{"lexeme": "Liz Taylor", "formula": "fb:phrase.Liz_Stauber"}
+{"lexeme": "Richard Burton", "formula": "fb:phrase.Richard_Burton"}
+{"lexeme": "Richard Burton", "formula": "fb:phrase.Richard_Burton's_Hamlet"}
+{"lexeme": "Richard Burton", "formula": "fb:phrase.Hilarie_Burton"}
+{"lexeme": "star", "formula": "(fb:rdf.type.prop fb:nounphrase.Star)"}
+{"lexeme": "star", "formula": "fb:phrase.prop.principal"}
+{"lexeme": "English actors", "formula": "fb:phrase.prop.originalLanguage"}
+{"lexeme": "English actors", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "English actors", "formula": "fb:phrase.prop.language"}
+{"lexeme": "Lovesick", "formula": "fb:phrase.Lovesick_Blues"}
+{"lexeme": "Lovesick", "formula": "fb:phrase.Tora-san's_Lovesick"}
+{"lexeme": "Lovesick", "formula": "fb:phrase.Scrotal_Recall"}
+{"lexeme": "Give", "formula": "fb:phrase.Giving"}
+{"lexeme": "Give", "formula": "fb:phrase.Giving_Myself"}
+{"lexeme": "Give", "formula": "fb:phrase.Give_In"}
+{"lexeme": "starring", "formula": "fb:phrase.prop.starring"}
+{"lexeme": "starring", "formula": "fb:phrase.prop.artist"}
+{"lexeme": "starring", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "country", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "Limerick Lake", "formula": "fb:phrase.Limerick_Lake"}
+{"lexeme": "Limerick Lake", "formula": "fb:phrase.Limerick,_Maine"}
+{"lexeme": "Limerick Lake", "formula": "fb:phrase.University_of_Limerick"}
+{"lexeme": "Jack Wolfskin", "formula": "fb:phrase.Jack_Wolfskin"}
+{"lexeme": "Jack Wolfskin", "formula": "fb:phrase.Wolfskin"}
+{"lexeme": "Jack Wolfskin", "formula": "fb:phrase.The_Jack"}
+{"lexeme": "founded", "formula": "fb:phrase.prop.foundedBy"}
+{"lexeme": "founded", "formula": "(fb:rdf.type.prop fb:nounphrase.Sound)"}
+{"lexeme": "founded", "formula": "fb:phrase.prop.established"}
+{"lexeme": "time zone", "formula": "fb:phrase.prop.timeZone"}
+{"lexeme": "time zone", "formula": "fb:phrase.prop.province"}
+{"lexeme": "time zone", "formula": "fb:phrase.prop.region"}
+{"lexeme": "Rome", "formula": "fb:phrase.ROMing"}
+{"lexeme": "Rome", "formula": "fb:phrase.Rome"}
+{"lexeme": "Rome", "formula": "fb:phrase.Rome,_Ohio"}
+{"lexeme": "actors", "formula": "(fb:rdf.type.prop fb:nounphrase.Artist)"}
+{"lexeme": "actors", "formula": "fb:phrase.prop.artist"}
+{"lexeme": "actors", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "Baldwin", "formula": "fb:phrase.Baldwin_Kho"}
+{"lexeme": "Baldwin", "formula": "fb:phrase.Baldwin"}
+{"lexeme": "Baldwin", "formula": "fb:phrase.Matty_Baldwin"}
+{"lexeme": "called", "formula": "fb:phrase.prop.knownFor"}
+{"lexeme": "called", "formula": "fb:phrase.prop.alias"}
+{"lexeme": "called", "formula": "fb:phrase.prop.namedAfter"}
+{"lexeme": "people", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "people", "formula": "fb:phrase.prop.family"}
+{"lexeme": "people", "formula": "fb:phrase.prop.languageFamily"}
+{"lexeme": "capital", "formula": "fb:phrase.prop.capital"}
+{"lexeme": "Australia", "formula": "fb:phrase.Australia"}
+{"lexeme": "Australia", "formula": "fb:phrase.For_Australia"}
+{"lexeme": "Australia", "formula": "fb:phrase.Airservices_Australia"}
+{"lexeme": "live", "formula": "fb:phrase.prop.party"}
+{"lexeme": "live", "formula": "fb:phrase.prop.recordedIn"}
+{"lexeme": "live", "formula": "(fb:rdf.type.prop fb:nounphrase.Play)"}
+{"lexeme": "wife", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "wife", "formula": "fb:phrase.prop.child"}
+{"lexeme": "wife", "formula": "fb:phrase.prop.architect"}
+{"lexeme": "US president Lincoln", "formula": "fb:phrase.Presidency_of_Abraham_Lincoln"}
+{"lexeme": "US president Lincoln", "formula": "fb:phrase.USS_President_Lincoln_(1907)"}
+{"lexeme": "US president Lincoln", "formula": "fb:phrase.President"}
+{"lexeme": "biggest stadium", "formula": "(fb:rdf.type.prop fb:nounphrase.Stadium)"}
+{"lexeme": "biggest stadium", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "biggest stadium", "formula": "fb:phrase.prop.field"}
+{"lexeme": "Spain", "formula": "fb:phrase.Spain"}
+{"lexeme": "Spain", "formula": "fb:phrase.Vilches,_Spain"}
+{"lexeme": "Spain", "formula": "fb:phrase.Toledo,_Spain"}
+{"lexeme": "Boston Tea Party", "formula": "fb:phrase.Tea_Party_Express"}
+{"lexeme": "Boston Tea Party", "formula": "fb:phrase.Boston_Tea_Party"}
+{"lexeme": "Boston Tea Party", "formula": "fb:phrase.Tea_Party_Patriots"}
+{"lexeme": "place", "formula": "fb:phrase.prop.place"}
+{"lexeme": "place", "formula": "(fb:rdf.type.prop fb:nounphrase.Place)"}
+{"lexeme": "place", "formula": "(fb:rdf.type.prop fb:nounphrase.Location)"}
+{"lexeme": "book", "formula": "(fb:rdf.type.prop fb:nounphrase.Book)"}
+{"lexeme": "book", "formula": "(fb:rdf.type.prop fb:nounphrase.Magazine)"}
+{"lexeme": "book", "formula": "fb:phrase.prop.volume"}
+{"lexeme": "Muhammad Ali", "formula": "fb:phrase.Ali_Nasir_Muhammad"}
+{"lexeme": "Muhammad Ali", "formula": "fb:phrase.Muhammad_Ali"}
+{"lexeme": "Muhammad Ali", "formula": "fb:phrase.Muhammad_Mansur_Ali"}
+{"lexeme": "Show", "formula": "fb:phrase.prop.show"}
+{"lexeme": "wrote", "formula": "fb:phrase.prop.thumbnail"}
+{"lexeme": "wrote", "formula": "fb:phrase.prop.language"}
+{"lexeme": "wrote", "formula": "fb:phrase.thumbnail"}
+{"lexeme": "Mickey Rourke", "formula": "fb:phrase.Mickey_Rourke"}
+{"lexeme": "Mickey Rourke", "formula": "fb:phrase.Mickey_Rourke_filmography"}
+{"lexeme": "Mickey Rourke", "formula": "fb:phrase.Andy_Rourke"}
+{"lexeme": "Guy Ritchie", "formula": "fb:phrase.Guy_Ritchie"}
+{"lexeme": "Guy Ritchie", "formula": "fb:phrase.Ritchie_Coster"}
+{"lexeme": "Guy Ritchie", "formula": "fb:phrase.Franklin_Ritchie"}
+{"lexeme": "directed", "formula": "fb:phrase.prop.director"}
+{"lexeme": "Ford Motor Company", "formula": "fb:phrase.Ford_Motor_Company"}
+{"lexeme": "Ford Motor Company", "formula": "fb:phrase.Ford_Motor_Company_Philippines"}
+{"lexeme": "Ford Motor Company", "formula": "fb:phrase.Ford_Motor_Company_of_Canada"}
+{"lexeme": "manufacturing plant", "formula": "fb:phrase.prop.position"}
+{"lexeme": "manufacturing plant", "formula": "(fb:rdf.type.prop fb:nounphrase.Plant)"}
+{"lexeme": "Malaysia", "formula": "fb:phrase.Malaysia"}
+{"lexeme": "Malaysia", "formula": "fb:phrase.Corruption_in_Malaysia"}
+{"lexeme": "Malaysia", "formula": "fb:phrase.Music_of_Malaysia"}
+{"lexeme": "books", "formula": "(fb:rdf.type.prop fb:nounphrase.Book)"}
+{"lexeme": "books", "formula": "(fb:rdf.type.prop fb:nounphrase.Magazine)"}
+{"lexeme": "books", "formula": "fb:phrase.prop.volume"}
+{"lexeme": "Danielle Steel", "formula": "fb:phrase.Danielle_Steel"}
+{"lexeme": "Danielle Steel", "formula": "fb:phrase.Danielle_Steel's_Star"}
+{"lexeme": "Danielle Steel", "formula": "fb:phrase.Secrets_(1992_American_film)"}
+{"lexeme": "written", "formula": "fb:phrase.prop.author"}
+{"lexeme": "written", "formula": "fb:phrase.prop.language"}
+{"lexeme": "written", "formula": "fb:phrase.prop.writer"}
+{"lexeme": "Sungkyunkwan University", "formula": "fb:phrase.Sungkyunkwan_University"}
+{"lexeme": "Sungkyunkwan University", "formula": "fb:phrase.Sungkyunkwan"}
+{"lexeme": "Sungkyunkwan University", "formula": "fb:phrase.Sungkyunkwan_University_Station"}
+{"lexeme": "museums", "formula": "(fb:rdf.type.prop fb:nounphrase.Museum)"}
+{"lexeme": "museums", "formula": "fb:phrase.prop.museum"}
+{"lexeme": "museums", "formula": "(fb:rdf.type.prop fb:nounphrase.HistoricBuilding)"}
+{"lexeme": "London", "formula": "fb:phrase.London"}
+{"lexeme": "London", "formula": "fb:phrase..london"}
+{"lexeme": "London", "formula": "fb:phrase.London_Gold"}
+{"lexeme": "Show", "formula": "fb:phrase.prop.show"}
+{"lexeme": "Sigmund Freud", "formula": "fb:phrase.Sigmund_Freud"}
+{"lexeme": "Sigmund Freud", "formula": "fb:phrase.The_Life_and_Work_of_Sigmund_Freud"}
+{"lexeme": "Sigmund Freud", "formula": "fb:phrase.Walter_Freud"}
+{"lexeme": "married", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "married", "formula": "fb:phrase.prop.child"}
+{"lexeme": "married", "formula": "(fb:rdf.type.prop fb:nounphrase.Single)"}
+{"lexeme": "president Chirac", "formula": "fb:phrase.Jacques_Chirac"}
+{"lexeme": "president Chirac", "formula": "fb:phrase.Claude_Chirac"}
+{"lexeme": "president Chirac", "formula": "fb:phrase.Bernadette_Chirac"}
+{"lexeme": "moons", "formula": "(fb:rdf.type.prop fb:nounphrase.Planet)"}
+{"lexeme": "moons", "formula": "fb:phrase.prop.province"}
+{"lexeme": "moons", "formula": "(fb:rdf.type.prop fb:nounphrase.Spacecraft)"}
+{"lexeme": "Mars", "formula": "fb:phrase.Mars"}
+{"lexeme": "Mars", "formula": "fb:phrase.Semper_Mars"}
+{"lexeme": "Mars", "formula": "fb:phrase.MAR"}
+{"lexeme": "form", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "form", "formula": "fb:phrase.prop.type"}
+{"lexeme": "form", "formula": "fb:phrase.prop.language"}
+{"lexeme": "government", "formula": "fb:phrase.prop.government"}
+{"lexeme": "government", "formula": "fb:phrase.prop.state"}
+{"lexeme": "government", "formula": "fb:phrase.prop.oversight"}
+{"lexeme": "Russia", "formula": "fb:phrase.Russia"}
+{"lexeme": "Russia", "formula": "fb:phrase.Armenians_in_Russia"}
+{"lexeme": "Russia", "formula": "fb:phrase.Tosu,_Russia"}
+{"lexeme": "Fort Knox", "formula": "fb:phrase.Fort_Knox"}
+{"lexeme": "Fort Knox", "formula": "fb:phrase.Fort_Knox_(Maine)"}
+{"lexeme": "Fort Knox", "formula": "fb:phrase.Fort_Knox_Five"}
+{"lexeme": "located", "formula": "fb:phrase.prop.location"}
+{"lexeme": "located", "formula": "fb:phrase.prop.locatedInArea"}
+{"lexeme": "located", "formula": "fb:phrase.prop.part"}
+{"lexeme": "Paris", "formula": "fb:phrase.This_Was_Paris"}
+{"lexeme": "Paris", "formula": "fb:phrase.Parys"}
+{"lexeme": "Paris", "formula": "fb:phrase.Paris"}
+{"lexeme": "1950", "formula": "fb:phrase.1950s"}
+{"lexeme": "1950", "formula": "fb:phrase.1950"}
+{"lexeme": "1950", "formula": "fb:phrase.1950_in_radio"}
+{"lexeme": "born", "formula": "fb:phrase.prop.birthPlace"}
+{"lexeme": "born", "formula": "fb:phrase.prop.country"}
+{"lexeme": "born", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "professional surfers", "formula": "fb:phrase.The_Prince_and_the_Surfer"}
+{"lexeme": "professional surfers", "formula": "fb:phrase.Surfer,_Dude"}
+{"lexeme": "professional surfers", "formula": "fb:phrase.The_Surfer's_Journal"}
+{"lexeme": "Syngman Rhee", "formula": "fb:phrase.Syngman_Rhee"}
+{"lexeme": "Syngman Rhee", "formula": "fb:phrase.Young_Shik_Rhee"}
+{"lexeme": "Syngman Rhee", "formula": "fb:phrase.Syngman_Rhee_(clergy)"}
+{"lexeme": "buried", "formula": "fb:phrase.prop.placeOfBurial"}
+{"lexeme": "buried", "formula": "fb:phrase.prop.canonizedPlace"}
+{"lexeme": "buried", "formula": "(fb:rdf.type.prop fb:nounphrase.Monument)"}
+{"lexeme": "official language", "formula": "fb:phrase.prop.officialLanguage"}
+{"lexeme": "official language", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "Suriname", "formula": "fb:phrase.Suriname"}
+{"lexeme": "Suriname", "formula": "fb:phrase.Wageningen,_Suriname"}
+{"lexeme": "Suriname", "formula": "fb:phrase.Kajana,_Suriname"}
+{"lexeme": "birth place", "formula": "fb:phrase.prop.birthPlace"}
+{"lexeme": "birth place", "formula": "fb:phrase.prop.languageFamily"}
+{"lexeme": "birth place", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "Frank Sinatra", "formula": "fb:phrase.Frank_Sinatra"}
+{"lexeme": "Frank Sinatra", "formula": "fb:phrase.Frank_Sinatra_filmography"}
+{"lexeme": "Frank Sinatra", "formula": "fb:phrase.Frank_Sinatra,_Jr."}
+{"lexeme": "smallest city", "formula": "fb:phrase.prop.largestCity"}
+{"lexeme": "smallest city", "formula": "(fb:rdf.type.prop fb:nounphrase.City)"}
+{"lexeme": "smallest city", "formula": "fb:phrase.prop.city"}
+{"lexeme": "area", "formula": "fb:phrase.prop.part"}
+{"lexeme": "area", "formula": "fb:phrase.prop.jurisdiction"}
+{"lexeme": "area", "formula": "fb:phrase.prop.province"}
+{"lexeme": "Germany", "formula": "fb:phrase.Germany"}
+{"lexeme": "Germany", "formula": "fb:phrase.Seeland,_Germany"}
+{"lexeme": "Germany", "formula": "fb:phrase.Germany_Kent"}
+{"lexeme": "UK", "formula": "fb:phrase..uk"}
+{"lexeme": "UK", "formula": "fb:phrase.@UK"}
+{"lexeme": "UK", "formula": "fb:phrase.Parkinson's_UK"}
+{"lexeme": "oldest child", "formula": "fb:phrase.prop.child"}
+{"lexeme": "Meryl Streep", "formula": "fb:phrase.Meryl_Streep"}
+{"lexeme": "Meryl Streep", "formula": "fb:phrase.Meryl_Streep_in_the_2000s"}
+{"lexeme": "Meryl Streep", "formula": "fb:phrase.Meryl_L._Streep"}
+{"lexeme": "Abraham Lincoln", "formula": "fb:phrase.Abraham_Lincoln"}
+{"lexeme": "Abraham Lincoln", "formula": "fb:phrase.Abraham_Lincoln_(Healy)"}
+{"lexeme": "Abraham Lincoln", "formula": "fb:phrase.Abraham_Lincoln_II"}
+{"lexeme": "die", "formula": "fb:phrase.prop.deathCause"}
+{"lexeme": "die", "formula": "fb:phrase.prop.flag"}
+{"lexeme": "die", "formula": "fb:phrase.prop.voice"}
+{"lexeme": "companies", "formula": "(fb:rdf.type.prop fb:nounphrase.Company)"}
+{"lexeme": "companies", "formula": "fb:phrase.prop.party"}
+{"lexeme": "companies", "formula": "(fb:rdf.type.prop fb:nounphrase.Galaxy)"}
+{"lexeme": "founder", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "Facebook", "formula": "fb:phrase.Facebook"}
+{"lexeme": "Facebook", "formula": "fb:phrase.Facebook_Paper"}
+{"lexeme": "Facebook", "formula": "fb:phrase.Censorship_of_Facebook"}
+{"lexeme": "soundtrack", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "Cameron s Titanic", "formula": "fb:phrase.Back_to_Titanic"}
+{"lexeme": "Cameron s Titanic", "formula": "fb:phrase.Remember_the_Titans"}
+{"lexeme": "Cameron s Titanic", "formula": "fb:phrase.S.O.S._Titanic"}
+{"lexeme": "composed", "formula": "fb:phrase.prop.composer"}
+{"lexeme": "composed", "formula": "fb:phrase.prop.musicComposer"}
+{"lexeme": "composed", "formula": "fb:phrase.prop.creator"}
+{"lexeme": "princess Diana", "formula": "fb:phrase.Wonder_Woman"}
+{"lexeme": "princess Diana", "formula": "fb:phrase.Diana,_Princess_of_Wales"}
+{"lexeme": "princess Diana", "formula": "fb:phrase.Princess_Diana_(disambiguation)"}
+{"lexeme": "Jane Fonda", "formula": "fb:phrase.Jane_Fonda"}
+{"lexeme": "Jane Fonda", "formula": "fb:phrase.Peter_Fonda"}
+{"lexeme": "Jane Fonda", "formula": "fb:phrase.Fonda_Rae"}
+{"lexeme": "marry", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "marry", "formula": "fb:phrase.prop.parent"}
+{"lexeme": "marry", "formula": "fb:phrase.prop.child"}
+{"lexeme": "television shows", "formula": "(fb:rdf.type.prop fb:nounphrase.TelevisionShow)"}
+{"lexeme": "television shows", "formula": "(fb:rdf.type.prop fb:nounphrase.TelevisionEpisode)"}
+{"lexeme": "television shows", "formula": "fb:phrase.prop.televisionSeries"}
+{"lexeme": "Walt Disney", "formula": "fb:phrase.Walt_Disney"}
+{"lexeme": "Walt Disney", "formula": "fb:phrase.Walt_Disney_Records"}
+{"lexeme": "Walt Disney", "formula": "fb:phrase.Walt_Disney_Television"}
+{"lexeme": "created", "formula": "fb:phrase.prop.relative"}
+{"lexeme": "created", "formula": "fb:phrase.prop.product"}
+{"lexeme": "created", "formula": "fb:phrase.prop.foundedBy"}
+{"lexeme": "beer", "formula": "(fb:rdf.type.prop fb:nounphrase.Beverage)"}
+{"lexeme": "beer", "formula": "fb:phrase.prop.fat"}
+{"lexeme": "beer", "formula": "(fb:rdf.type.prop fb:nounphrase.Brewery)"}
+{"lexeme": "Ireland", "formula": "fb:phrase.Ireland"}
+{"lexeme": "Ireland", "formula": "fb:phrase.Turks_in_Ireland"}
+{"lexeme": "Ireland", "formula": "fb:phrase.TV3_(Ireland)"}
+{"lexeme": "originated", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "originated", "formula": "fb:phrase.prop.date"}
+{"lexeme": "originated", "formula": "fb:phrase.prop.result"}
+{"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Robot_series_(Asimov)"}
+{"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Foundation_(Isaac_Asimov_novel)"}
+{"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Foundation_series"}
+{"lexeme": "Show", "formula": "fb:phrase.prop.show"}
+{"lexeme": "movie Worst Case Scenario", "formula": "fb:phrase.Worst_Case_Scenario_(film)"}
+{"lexeme": "movie Worst Case Scenario", "formula": "fb:phrase.Best_Worst_Movie"}
+{"lexeme": "movie Worst Case Scenario", "formula": "fb:phrase.The_Worst_Movie_Ever!"}
+{"lexeme": "cinemas", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "cinemas", "formula": "fb:phrase.prop.picture"}
+{"lexeme": "cinemas", "formula": "fb:phrase.prop.film"}
+{"lexeme": "Netherlands", "formula": "fb:phrase.Netherlands"}
+{"lexeme": "Netherlands", "formula": "fb:phrase.Walem,_Netherlands"}
+{"lexeme": "Netherlands", "formula": "fb:phrase.Strype,_Netherlands"}
+{"lexeme": "James Bond", "formula": "fb:phrase.James_Bond"}
+{"lexeme": "James Bond", "formula": "fb:phrase.James_Bond_filmography"}
+{"lexeme": "James Bond", "formula": "fb:phrase.Jatt_James_Bond"}
+{"lexeme": "scientist", "formula": "(fb:rdf.type.prop fb:nounphrase.Scientist)"}
+{"lexeme": "scientist", "formula": "(fb:rdf.type.prop fb:nounphrase.Journalist)"}
+{"lexeme": "scientist", "formula": "(fb:rdf.type.prop fb:nounphrase.Philosopher)"}
+{"lexeme": "Manhattan Project", "formula": "fb:phrase.Manhattan_Project"}
+{"lexeme": "Manhattan Project", "formula": "fb:phrase.Manhattan"}
+{"lexeme": "Manhattan Project", "formula": "fb:phrase.The_Manhattan_Projects"}
+{"lexeme": "Nobel Peace Prize", "formula": "fb:phrase.Nobel_Peace_Prize"}
+{"lexeme": "Nobel Peace Prize", "formula": "fb:phrase.2007_Nobel_Peace_Prize"}
+{"lexeme": "Nobel Peace Prize", "formula": "fb:phrase.Ig_Nobel_Prize"}
+{"lexeme": "mayor", "formula": "(fb:rdf.type.prop fb:nounphrase.Mayor)"}
+{"lexeme": "mayor", "formula": "(fb:rdf.type.prop fb:nounphrase.Governor)"}
+{"lexeme": "mayor", "formula": "fb:phrase.prop.mayor"}
+{"lexeme": "York City", "formula": "fb:phrase.New_York_City"}
+{"lexeme": "York City", "formula": "fb:phrase.Salamanca_(city),_New_York"}
+{"lexeme": "York City", "formula": "fb:phrase.Huntington,_City_of_York"}
+{"lexeme": "airlines", "formula": "(fb:rdf.type.prop fb:nounphrase.Airline)"}
+{"lexeme": "airlines", "formula": "fb:phrase.prop.suborbitalFlights"}
+{"lexeme": "airlines", "formula": "fb:phrase.prop.iataAirlineCode"}
+{"lexeme": "members", "formula": "fb:phrase.prop.membership"}
+{"lexeme": "members", "formula": "fb:phrase.prop.relative"}
+{"lexeme": "members", "formula": "fb:phrase.prop.languageFamily"}
+{"lexeme": "Star Alliance", "formula": "fb:phrase.Star_Alliance"}
+{"lexeme": "Star Alliance", "formula": "fb:phrase.Star"}
+{"lexeme": "Star Alliance", "formula": "fb:phrase.Alliance"}
+{"lexeme": "Latvia", "formula": "fb:phrase.Latvia"}
+{"lexeme": "Latvia", "formula": "fb:phrase.Demographics_of_Latvia"}
+{"lexeme": "Latvia", "formula": "fb:phrase.Telecommunications_in_Latvia"}
+{"lexeme": "EU", "formula": "fb:phrase.Eus"}
+{"lexeme": "EU", "formula": "fb:phrase.Eu-"}
+{"lexeme": "EU", "formula": "fb:phrase.EUS"}
+{"lexeme": "join", "formula": "fb:phrase.Join"}
+{"lexeme": "join", "formula": "fb:phrase.Join_In!"}
+{"lexeme": "join", "formula": "fb:phrase.Join_and_meet"}
+{"lexeme": "highest mountain", "formula": "fb:phrase.The_Highest_Mountain"}
+{"lexeme": "highest mountain", "formula": "fb:phrase.List_of_highest_mountains"}
+{"lexeme": "highest mountain", "formula": "fb:phrase.Highest_unclimbed_mountain"}
+{"lexeme": "Earth", "formula": "fb:phrase.Not_of_This_Earth"}
+{"lexeme": "Earth", "formula": "fb:phrase.@earth"}
+{"lexeme": "Earth", "formula": "fb:phrase.Earth"}
+{"lexeme": "soccer players", "formula": "(fb:rdf.type.prop fb:nounphrase.SoccerPlayer)"}
+{"lexeme": "soccer players", "formula": "(fb:rdf.type.prop fb:nounphrase.BasketballPlayer)"}
+{"lexeme": "soccer players", "formula": "(fb:rdf.type.prop fb:nounphrase.SoccerLeague)"}
+{"lexeme": "Malta", "formula": "fb:phrase.Malta"}
+{"lexeme": "Malta", "formula": "fb:phrase.University_of_Malta"}
+{"lexeme": "Malta", "formula": "fb:phrase.Safi,_Malta"}
+{"lexeme": "city", "formula": "fb:phrase.prop.city"}
+{"lexeme": "city", "formula": "(fb:rdf.type.prop fb:nounphrase.City)"}
+{"lexeme": "city", "formula": "(fb:rdf.type.prop fb:nounphrase.Place)"}
+{"lexeme": "Nikos Kazantzakis", "formula": "fb:phrase.Heraklion_International_Airport"}
+{"lexeme": "Nikos Kazantzakis", "formula": "fb:phrase.NIKO_IS"}
+{"lexeme": "Nikos Kazantzakis", "formula": "fb:phrase.Nikos_Liberopoulos"}
+{"lexeme": "President Obama", "formula": "fb:phrase.Presidency_of_Barack_Obama"}
+{"lexeme": "President Obama", "formula": "fb:phrase.The_Obama_Nation"}
+{"lexeme": "President Obama", "formula": "fb:phrase.The_Promise:_President_Obama,_Year_One"}
+{"lexeme": "Michelle", "formula": "fb:phrase.Michel_Besnier"}
+{"lexeme": "Michelle", "formula": "fb:phrase.Michele_Greco"}
+{"lexeme": "Michelle", "formula": "fb:phrase.Michelle_Marsh"}
+{"lexeme": "France", "formula": "fb:phrase.France"}
+{"lexeme": "France", "formula": "fb:phrase.Frances"}
+{"lexeme": "France", "formula": "fb:phrase.Franc"}
+{"lexeme": "sparkling wine", "formula": "fb:phrase.Sparkling_wine"}
+{"lexeme": "sparkling wine", "formula": "fb:phrase.Sparkling_wine_production"}
+{"lexeme": "sparkling wine", "formula": "fb:phrase.Bernini_sparkling_wine"}
+{"lexeme": "produced", "formula": "fb:phrase.prop.wineProduced"}
+{"lexeme": "produced", "formula": "fb:phrase.prop.product"}
+{"lexeme": "produced", "formula": "fb:phrase.prop.result"}
+{"lexeme": "Socrates", "formula": "fb:phrase.Socrates"}
+{"lexeme": "Socrates", "formula": "fb:phrase.Socrate_Sidiropoulos"}
+{"lexeme": "Socrates", "formula": "fb:phrase.Socrates_Chrestus"}
+{"lexeme": "influenced", "formula": "fb:phrase.prop.influenced"}
+{"lexeme": "influenced", "formula": "fb:phrase.prop.influencedBy"}
+{"lexeme": "influenced", "formula": "fb:phrase.prop.position"}
+{"lexeme": "Isar flow", "formula": "fb:phrase.Isar"}
+{"lexeme": "Isar flow", "formula": "fb:phrase.Isares"}
+{"lexeme": "Isar flow", "formula": "fb:phrase.ISAR"}
+{"lexeme": "lake", "formula": "fb:phrase.By_the_Lake"}
+{"lexeme": "lake", "formula": "fb:phrase.The_Lakes"}
+{"lexeme": "lake", "formula": "fb:phrase.The_Lake"}
+{"lexeme": "comic Captain America", "formula": "fb:phrase.America's_Best_Comics"}
+{"lexeme": "comic Captain America", "formula": "fb:phrase.Captain_America"}
+{"lexeme": "comic Captain America", "formula": "fb:phrase.Captain_Mike_Across_America"}
+{"lexeme": "cities", "formula": "(fb:rdf.type.prop fb:nounphrase.City)"}
+{"lexeme": "cities", "formula": "fb:phrase.prop.city"}
+{"lexeme": "cities", "formula": "fb:phrase.prop.locationCity"}
+{"lexeme": "Weser flow", "formula": "fb:phrase.Weser"}
+{"lexeme": "Weser flow", "formula": "fb:phrase.Weser_Flugzeugbau"}
+{"lexeme": "Weser flow", "formula": "fb:phrase.Exter_(Weser)"}
+{"lexeme": "Michael Jackson", "formula": "fb:phrase.The_Essential_Michael_Jackson"}
+{"lexeme": "Michael Jackson", "formula": "fb:phrase.Michael_Jackson"}
+{"lexeme": "Michael Jackson", "formula": "fb:phrase.Michael_Jackson's_Ghosts"}
+{"lexeme": "films", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "films", "formula": "fb:phrase.prop.film"}
+{"lexeme": "Clint Eastwood", "formula": "fb:phrase.Clint_Eastwood"}
+{"lexeme": "Clint Eastwood", "formula": "fb:phrase.Personal_life_of_Clint_Eastwood"}
+{"lexeme": "Clint Eastwood", "formula": "fb:phrase.Bibliography_of_Clint_Eastwood"}
+{"lexeme": "direct", "formula": "fb:phrase.prop.part"}
+{"lexeme": "direct", "formula": "fb:phrase.prop.head"}
+{"lexeme": "direct", "formula": "fb:phrase.prop.show"}
+{"lexeme": "Berlin", "formula": "fb:phrase.Berlin"}
+{"lexeme": "Berlin", "formula": "fb:phrase.In_Berlin"}
+{"lexeme": "Berlin", "formula": "fb:phrase.Air_Berlin"}
+{"lexeme": "governor", "formula": "(fb:rdf.type.prop fb:nounphrase.Governor)"}
+{"lexeme": "governor", "formula": "fb:phrase.prop.employer"}
+{"lexeme": "governor", "formula": "fb:phrase.prop.governor"}
+{"lexeme": "Texas", "formula": "fb:phrase.Texas"}
+{"lexeme": "Texas", "formula": "fb:phrase.Woodlake,_Texas"}
+{"lexeme": "Texas", "formula": "fb:phrase.Llano,_Texas"}
+{"lexeme": "politicians", "formula": "(fb:rdf.type.prop fb:nounphrase.Politician)"}
+{"lexeme": "Columbia University", "formula": "fb:phrase.Columbia_University"}
+{"lexeme": "Columbia University", "formula": "fb:phrase.University_of_the_District_of_Columbia"}
+{"lexeme": "Columbia University", "formula": "fb:phrase.University_of_Northern_British_Columbia"}
+{"lexeme": "graduated", "formula": "(fb:rdf.type.prop fb:nounphrase.University)"}
+{"lexeme": "graduated", "formula": "fb:phrase.prop.university"}
+{"lexeme": "graduated", "formula": "fb:phrase.prop.institution"}
+{"lexeme": "host", "formula": "(fb:rdf.type.prop fb:nounphrase.TelevisionHost)"}
+{"lexeme": "host", "formula": "fb:phrase.prop.broadcastNetwork"}
+{"lexeme": "host", "formula": "fb:phrase.mass"}
+{"lexeme": "BBC Wildlife Specials", "formula": "fb:phrase.BBC"}
+{"lexeme": "BBC Wildlife Specials", "formula": "fb:phrase.BBC_Two"}
+{"lexeme": "BBC Wildlife Specials", "formula": "fb:phrase.BBC_East"}
+{"lexeme": "longest river", "formula": "(fb:rdf.type.prop fb:nounphrase.River)"}
+{"lexeme": "longest river", "formula": "fb:phrase.prop.river"}
+{"lexeme": "China", "formula": "fb:phrase.China"}
+{"lexeme": "China", "formula": "fb:phrase.On_China"}
+{"lexeme": "China", "formula": "fb:phrase.Chinas"}
+{"lexeme": "father", "formula": "fb:phrase.prop.author"}
+{"lexeme": "father", "formula": "fb:phrase.prop.parent"}
+{"lexeme": "father", "formula": "fb:phrase.prop.architect"}
+{"lexeme": "Queen Elizabeth II", "formula": "fb:phrase.Queen_Elizabeth_II_Stakes"}
+{"lexeme": "Queen Elizabeth II", "formula": "fb:phrase.Elizabeth_II"}
+{"lexeme": "Queen Elizabeth II", "formula": "fb:phrase.Queen_&_Elizabeth"}
+{"lexeme": "capital", "formula": "fb:phrase.prop.capital"}
+{"lexeme": "Canada", "formula": "fb:phrase.Canada"}
+{"lexeme": "Canada", "formula": "fb:phrase.Canadas"}
+{"lexeme": "Canada", "formula": "fb:phrase.CANADA!"}
+{"lexeme": "Che Guevara", "formula": "fb:phrase.Che_Guevara"}
+{"lexeme": "Che Guevara", "formula": "fb:phrase.Che_Guevara_Mausoleum"}
+{"lexeme": "Che Guevara", "formula": "fb:phrase.Tootsie_Guevara"}
+{"lexeme": "children", "formula": "fb:phrase.prop.child"}
+{"lexeme": "children", "formula": "fb:phrase.prop.languageFamily"}
+{"lexeme": "children", "formula": "fb:phrase.prop.family"}
+{"lexeme": "instruments", "formula": "fb:phrase.prop.instrument"}
+{"lexeme": "instruments", "formula": "fb:phrase.prop.equipment"}
+{"lexeme": "instruments", "formula": "(fb:rdf.type.prop fb:nounphrase.Engine)"}
+{"lexeme": "Cat Stevens play", "formula": "fb:phrase.Cat_Stevens"}
+{"lexeme": "Cat Stevens play", "formula": "fb:phrase.Numbers_(Cat_Stevens_album)"}
+{"lexeme": "Cat Stevens play", "formula": "fb:phrase.Gold_(Cat_Stevens_album)"}
+{"lexeme": "Frisian islands", "formula": "fb:phrase.Frisian_Islands"}
+{"lexeme": "Frisian islands", "formula": "fb:phrase.Frisians"}
+{"lexeme": "Frisian islands", "formula": "fb:phrase.East_Frisian_Islands"}
+{"lexeme": "belong", "formula": "fb:phrase.prop.affiliation"}
+{"lexeme": "belong", "formula": "fb:phrase.prop.team"}
+{"lexeme": "belong", "formula": "fb:phrase.prop.relative"}
+{"lexeme": "Claudia Schiffer", "formula": "fb:phrase.Claudia_Schiffer"}
+{"lexeme": "Claudia Schiffer", "formula": "fb:phrase.Schiffer"}
+{"lexeme": "Claudia Schiffer", "formula": "fb:phrase.Ervin_Schiffer"}
+{"lexeme": "residence", "formula": "fb:phrase.prop.residence"}
+{"lexeme": "residence", "formula": "fb:phrase.prop.occupation"}
+{"lexeme": "residence", "formula": "fb:phrase.prop.address"}
+{"lexeme": "prime minister", "formula": "fb:phrase.prop.primeMinister"}
+{"lexeme": "prime minister", "formula": "(fb:rdf.type.prop fb:nounphrase.PrimeMinister)"}
+{"lexeme": "prime minister", "formula": "fb:phrase.prop.head"}
+{"lexeme": "lakes", "formula": "(fb:rdf.type.prop fb:nounphrase.Lake)"}
+{"lexeme": "lakes", "formula": "fb:phrase.prop.lake"}
+{"lexeme": "Denmark", "formula": "fb:phrase.Denmark"}
+{"lexeme": "Denmark", "formula": "fb:phrase.1869_in_Denmark"}
+{"lexeme": "Denmark", "formula": "fb:phrase.1786_in_Denmark"}
+{"lexeme": "Penn State University", "formula": "fb:phrase.Penn_State_University_Creamery"}
+{"lexeme": "Penn State University", "formula": "fb:phrase.Penn_State_Abington"}
+{"lexeme": "Penn State University", "formula": "fb:phrase.Penn_State_Brandywine"}
+{"lexeme": "state", "formula": "fb:phrase.prop.state"}
+{"lexeme": "state", "formula": "fb:phrase.prop.province"}
+{"lexeme": "state", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "Bruce Carver", "formula": "fb:phrase.Bruce_Carver"}
+{"lexeme": "Bruce Carver", "formula": "fb:phrase.Lynne_Carver"}
+{"lexeme": "Bruce Carver", "formula": "fb:phrase.Hartwell_Carver"}
+{"lexeme": "Gus Fring", "formula": "fb:phrase.Gus_Fring"}
+{"lexeme": "Gus Fring", "formula": "fb:phrase.Fring"}
+{"lexeme": "Gus Fring", "formula": "fb:phrase.Frings"}
+{"lexeme": "Breaking Bad", "formula": "fb:phrase.Breaking_Bad"}
+{"lexeme": "Breaking Bad", "formula": "fb:phrase.Breaking_Bad_(season_3)"}
+{"lexeme": "Breaking Bad", "formula": "fb:phrase.Peekaboo_(Breaking_Bad)"}
+{"lexeme": "played", "formula": "fb:phrase.prop.plays"}
+{"lexeme": "played", "formula": "(fb:rdf.type.prop fb:nounphrase.Play)"}
+{"lexeme": "William Shatner", "formula": "fb:phrase.William_Shatner"}
+{"lexeme": "William Shatner", "formula": "fb:phrase.William_Shatner's_Gonzo_Ballet"}
+{"lexeme": "William Shatner", "formula": "fb:phrase.William_Shatner_Live"}
+{"lexeme": "directed", "formula": "fb:phrase.prop.director"}
+{"lexeme": "Sylvester Stallone", "formula": "fb:phrase.Sylvester_Stallone"}
+{"lexeme": "Sylvester Stallone", "formula": "fb:phrase.Sage_Stallone"}
+{"lexeme": "Sylvester Stallone", "formula": "fb:phrase.Jackie_Stallone"}
+{"lexeme": "official languages", "formula": "fb:phrase.prop.officialLanguage"}
+{"lexeme": "official languages", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "official languages", "formula": "fb:phrase.prop.state"}
+{"lexeme": "Philippines", "formula": "fb:phrase.Philippines"}
+{"lexeme": "Philippines", "formula": "fb:phrase.Commonwealth_of_the_Philippines"}
+{"lexeme": "Philippines", "formula": "fb:phrase.The_Philippine_Star"}
+{"lexeme": "rivers lakes", "formula": "(fb:rdf.type.prop fb:nounphrase.River)"}
+{"lexeme": "rivers lakes", "formula": "fb:phrase.prop.river"}
+{"lexeme": "South Carolina", "formula": "fb:phrase.South_Carolina"}
+{"lexeme": "South Carolina", "formula": "fb:phrase.South_Carolina_%22Carrie%22_Bronson_Hatfield"}
+{"lexeme": "South Carolina", "formula": "fb:phrase.South_Carolina_Shamrocks"}
+{"lexeme": "Expand", "formula": "fb:phrase.The_Expandables"}
+{"lexeme": "Expand", "formula": "fb:phrase.Expander"}
+{"lexeme": "Expand", "formula": "fb:phrase.Expand_(Unix)"}
+{"lexeme": "Liz Taylor Richard Burton", "formula": "fb:phrase.Burton_&_Taylor"}
+{"lexeme": "Liz Taylor Richard Burton", "formula": "fb:phrase.Richard_Burton's_Hamlet"}
+{"lexeme": "Liz Taylor Richard Burton", "formula": "fb:phrase.Liz:_The_Elizabeth_Taylor_Story"}
+{"lexeme": "features", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "features", "formula": "fb:phrase.prop.field"}
+{"lexeme": "features", "formula": "fb:phrase.prop.transmission"}
+{"lexeme": "starred", "formula": "fb:phrase.prop.starring"}
+{"lexeme": "starred", "formula": "fb:phrase.prop.artist"}
+{"lexeme": "starred", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "found", "formula": "(fb:rdf.type.prop fb:nounphrase.Judge)"}
+{"lexeme": "found", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "found", "formula": "fb:phrase.prop.place"}
+{"lexeme": "year", "formula": "(fb:rdf.type.prop fb:nounphrase.Year)"}
+{"lexeme": "year", "formula": "fb:phrase.prop.year"}
+{"lexeme": "year", "formula": "fb:phrase.prop.date"}
+{"lexeme": "Romes time zone", "formula": "fb:phrase.Time_zone"}
+{"lexeme": "Romes time zone", "formula": "fb:phrase.Real_Time_Rome"}
+{"lexeme": "Romes time zone", "formula": "fb:phrase.Atlantic_Time_Zone"}
+{"lexeme": "population", "formula": "fb:phrase.prop.country"}
+{"lexeme": "population", "formula": "fb:phrase.prop.populationPlace"}
+{"lexeme": "population", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "Australia capital", "formula": "fb:phrase.Capitalism"}
+{"lexeme": "Australia capital", "formula": "fb:phrase.Clarium_Capital"}
+{"lexeme": "Australia capital", "formula": "fb:phrase.Capital_punishment_in_Australia"}
+{"lexeme": "happen", "formula": "fb:phrase.prop.party"}
+{"lexeme": "happen", "formula": "fb:phrase.prop.result"}
+{"lexeme": "happen", "formula": "fb:phrase.prop.event"}
+{"lexeme": "actor", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "actor", "formula": "(fb:rdf.type.prop fb:nounphrase.Artist)"}
+{"lexeme": "actor", "formula": "fb:phrase.prop.artist"}
+{"lexeme": "directed", "formula": "fb:phrase.prop.director"}
+{"lexeme": "manufacturing plant", "formula": "fb:phrase.prop.position"}
+{"lexeme": "books Danielle Steel", "formula": "fb:phrase.Danielle_Steel"}
+{"lexeme": "books Danielle Steel", "formula": "fb:phrase.Danielle_Steel's_Star"}
+{"lexeme": "books Danielle Steel", "formula": "fb:phrase.The_Book_of_Daniel_(TV_series)"}
+{"lexeme": "authored", "formula": "fb:phrase.prop.author"}
+{"lexeme": "authored", "formula": "fb:phrase.prop.writer"}
+{"lexeme": "authored", "formula": "(fb:rdf.type.prop fb:nounphrase.Architect)"}
+{"lexeme": "marital status", "formula": "fb:phrase.prop.status"}
+{"lexeme": "marital status", "formula": "fb:phrase.prop.title"}
+{"lexeme": "president Chiracs wife", "formula": "fb:phrase.prop.president"}
+{"lexeme": "president Chiracs wife", "formula": "(fb:rdf.type.prop fb:nounphrase.President)"}
+{"lexeme": "president Chiracs wife", "formula": "fb:phrase.prop.dean"}
+{"lexeme": "location", "formula": "fb:phrase.prop.location"}
+{"lexeme": "location", "formula": "(fb:rdf.type.prop fb:nounphrase.Station)"}
+{"lexeme": "location", "formula": "fb:phrase.prop.place"}
+{"lexeme": "birthplace", "formula": "fb:phrase.prop.country"}
+{"lexeme": "birthplace", "formula": "fb:phrase.prop.birthPlace"}
+{"lexeme": "birthplace", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "post 1950", "formula": "fb:phrase.1950s"}
+{"lexeme": "post 1950", "formula": "fb:phrase.List_of_post-1950_jazz_standards"}
+{"lexeme": "post 1950", "formula": "fb:phrase.1950"}
+{"lexeme": "wre born", "formula": "fb:phrase.prop.county"}
+{"lexeme": "wre born", "formula": "fb:phrase.prop.board"}
+{"lexeme": "wre born", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "rituals", "formula": "fb:phrase.prop.service"}
+{"lexeme": "rituals", "formula": "fb:phrase.prop.institution"}
+{"lexeme": "rituals", "formula": "fb:phrase.prop.state"}
+{"lexeme": "official language", "formula": "fb:phrase.prop.officialLanguage"}
+{"lexeme": "Surinam", "formula": "fb:phrase.Suriname"}
+{"lexeme": "Surinam", "formula": "fb:phrase.Wageningen,_Suriname"}
+{"lexeme": "Surinam", "formula": "fb:phrase.Kajana,_Suriname"}
+{"lexeme": "Meryl Streeps child", "formula": "fb:phrase.Meryl_Streep"}
+{"lexeme": "Meryl Streeps child", "formula": "fb:phrase.Meryl_Streep_in_the_2000s"}
+{"lexeme": "Meryl Streeps child", "formula": "fb:phrase.Meryl_L._Streep"}
+{"lexeme": "founder", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "composer", "formula": "fb:phrase.prop.composer"}
+{"lexeme": "composer", "formula": "fb:phrase.prop.musicComposer"}
+{"lexeme": "composer", "formula": "fb:phrase.prop.creator"}
+{"lexeme": "soundtrack", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "Camerons Titanic", "formula": "fb:phrase.Remember_the_Titans"}
+{"lexeme": "Camerons Titanic", "formula": "fb:phrase.S.O.S._Titanic"}
+{"lexeme": "Camerons Titanic", "formula": "fb:phrase.Back_to_Titanic"}
+{"lexeme": "years", "formula": "fb:phrase.prop.era"}
+{"lexeme": "years", "formula": "fb:phrase.prop.time"}
+{"lexeme": "years", "formula": "fb:phrase.prop.activeYearsStartYear"}
+{"lexeme": "times", "formula": "fb:phrase.prop.era"}
+{"lexeme": "times", "formula": "fb:phrase.prop.time"}
+{"lexeme": "times", "formula": "fb:phrase.prop.day"}
+{"lexeme": "tv series", "formula": "fb:phrase.prop.series"}
+{"lexeme": "tv series", "formula": "(fb:rdf.type.prop fb:nounphrase.TelevisionEpisode)"}
+{"lexeme": "tv series", "formula": "fb:phrase.prop.televisionSeries"}
+{"lexeme": "create", "formula": "fb:phrase.prop.type"}
+{"lexeme": "create", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "create", "formula": "fb:phrase.prop.product"}
+{"lexeme": "hit", "formula": "fb:phrase.Hit!"}
+{"lexeme": "hit", "formula": "fb:phrase.Hit_the_Saddle"}
+{"lexeme": "hit", "formula": "fb:phrase.Hit_&_Stay"}
+{"lexeme": "spouse", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "spouse", "formula": "fb:phrase.prop.partner"}
+{"lexeme": "won", "formula": "fb:phrase.prop.institution"}
+{"lexeme": "won", "formula": "fb:phrase.prop.firstWin"}
+{"lexeme": "won", "formula": "fb:phrase.prop.winsAtLET"}
+{"lexeme": "current mayor", "formula": "(fb:rdf.type.prop fb:nounphrase.Mayor)"}
+{"lexeme": "current mayor", "formula": "fb:phrase.prop.mayor"}
+{"lexeme": "current mayor", "formula": "fb:phrase.prop.currentMember"}
+{"lexeme": "number", "formula": "fb:phrase.prop.number"}
+{"lexeme": "part", "formula": "fb:phrase.prop.role"}
+{"lexeme": "part", "formula": "fb:phrase.prop.ingredient"}
+{"lexeme": "part", "formula": "fb:phrase.prop.part"}
+{"lexeme": "mountain", "formula": "(fb:rdf.type.prop fb:nounphrase.Mountain)"}
+{"lexeme": "mountain", "formula": "fb:phrase.prop.elevation"}
+{"lexeme": "mountain", "formula": "fb:phrase.prop.mass"}
+{"lexeme": "highest", "formula": "(fb:rdf.type.prop fb:nounphrase.Cardinal)"}
+{"lexeme": "highest", "formula": "fb:phrase.prop.principal"}
+{"lexeme": "highest", "formula": "fb:phrase.prop.head"}
+{"lexeme": "President Obamas wife", "formula": "fb:phrase.prop.president"}
+{"lexeme": "President Obamas wife", "formula": "fb:phrase.prop.chairman"}
+{"lexeme": "President Obamas wife", "formula": "fb:phrase.prop.leader"}
+{"lexeme": "Sparkling wine", "formula": "fb:phrase.Sparkling_wine"}
+{"lexeme": "Sparkling wine", "formula": "fb:phrase.Sparkle_in_the_Finish"}
+{"lexeme": "Sparkling wine", "formula": "fb:phrase.Sparkle,_California"}
+{"lexeme": "Isar end", "formula": "fb:phrase.Isar"}
+{"lexeme": "Isar end", "formula": "fb:phrase.Isares"}
+{"lexeme": "Isar end", "formula": "fb:phrase.ISAR"}
+{"lexeme": "Captain America", "formula": "fb:phrase.Captain_America_(serial)"}
+{"lexeme": "Captain America", "formula": "fb:phrase.Captain_America"}
+{"lexeme": "Captain America", "formula": "fb:phrase.Captain_America_and_the_Falcon"}
+{"lexeme": "existence", "formula": "fb:phrase.prop.time"}
+{"lexeme": "existence", "formula": "fb:phrase.prop.company"}
+{"lexeme": "existence", "formula": "fb:phrase.prop.product"}
+{"lexeme": "broght", "formula": "fb:phrase.prop.strength"}
+{"lexeme": "broght", "formula": "(fb:rdf.type.prop fb:nounphrase.Muscle)"}
+{"lexeme": "broght", "formula": "(fb:rdf.type.prop fb:nounphrase.Activity)"}
+{"lexeme": "Weser", "formula": "fb:phrase.Weser"}
+{"lexeme": "Weser", "formula": "fb:phrase.Weser_Flugzeugbau"}
+{"lexeme": "Weser", "formula": "fb:phrase.Weser_Uplands"}
+{"lexeme": "passes", "formula": "fb:phrase.prop.outflow"}
+{"lexeme": "passes", "formula": "fb:phrase.course"}
+{"lexeme": "passes", "formula": "fb:phrase.prop.course"}
+{"lexeme": "films", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "actor director", "formula": "fb:phrase.prop.artist"}
+{"lexeme": "actor director", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "actor director", "formula": "(fb:rdf.type.prop fb:nounphrase.Artist)"}
+{"lexeme": "number", "formula": "fb:phrase.prop.number"}
+{"lexeme": "politicians", "formula": "(fb:rdf.type.prop fb:nounphrase.Politician)"}
+{"lexeme": "presented", "formula": "fb:phrase.prop.thumbnail"}
+{"lexeme": "presented", "formula": "fb:phrase.prop.award"}
+{"lexeme": "presented", "formula": "fb:phrase.prop.format"}
+{"lexeme": "longest river", "formula": "(fb:rdf.type.prop fb:nounphrase.River)"}
+{"lexeme": "capital", "formula": "fb:phrase.prop.capital"}
+{"lexeme": "kids", "formula": "fb:phrase.prop.child"}
+{"lexeme": "kids", "formula": "fb:phrase.prop.languageFamily"}
+{"lexeme": "kids", "formula": "fb:phrase.prop.family"}
+{"lexeme": "fathered", "formula": "fb:phrase.prop.child"}
+{"lexeme": "fathered", "formula": "fb:phrase.prop.successor"}
+{"lexeme": "fathered", "formula": "fb:phrase.prop.author"}
+{"lexeme": "Cat Stevens", "formula": "fb:phrase.Cat_Stevens"}
+{"lexeme": "Cat Stevens", "formula": "fb:phrase.Numbers_(Cat_Stevens_album)"}
+{"lexeme": "Cat Stevens", "formula": "fb:phrase.Gold_(Cat_Stevens_album)"}
+{"lexeme": "plays", "formula": "fb:phrase.prop.plays"}
+{"lexeme": "plays", "formula": "(fb:rdf.type.prop fb:nounphrase.Play)"}
+{"lexeme": "Netherland", "formula": "fb:phrase.Netherlands"}
+{"lexeme": "Netherland", "formula": "fb:phrase.Walem,_Netherlands"}
+{"lexeme": "Netherland", "formula": "fb:phrase.Strype,_Netherlands"}
+{"lexeme": "owns", "formula": "fb:phrase.prop.subsidiary"}
+{"lexeme": "owns", "formula": "fb:phrase.prop.owningCompany"}
+{"lexeme": "owns", "formula": "fb:phrase.prop.owner"}
+{"lexeme": "Claudia Schiffers height", "formula": "fb:phrase.Claudia_Schiffer"}
+{"lexeme": "Claudia Schiffers height", "formula": "fb:phrase.Schiffer"}
+{"lexeme": "Claudia Schiffers height", "formula": "fb:phrase.Ervin_Schiffer"}
+{"lexeme": "Spain prime ministers residence", "formula": "fb:phrase.Prime_Minister_of_Spain"}
+{"lexeme": "Spain prime ministers residence", "formula": "fb:phrase.List_of_Prime_Ministers_of_Spain"}
+{"lexeme": "Spain prime ministers residence", "formula": "fb:phrase.Deputy_Prime_Minister_of_Spain"}
+{"lexeme": "lakes", "formula": "(fb:rdf.type.prop fb:nounphrase.Lake)"}
+{"lexeme": "reason", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "reason", "formula": "fb:phrase.prop.position"}
+{"lexeme": "reason", "formula": "fb:phrase.prop.institution"}
+{"lexeme": "s death", "formula": "fb:phrase.prop.deathPlace"}
+{"lexeme": "s death", "formula": "fb:phrase.prop.deathCause"}
+{"lexeme": "s death", "formula": "fb:phrase.prop.fate"}
+{"lexeme": "played", "formula": "fb:phrase.prop.plays"}
+{"lexeme": "director William Shatner movies", "formula": "fb:phrase.William_Shatner"}
+{"lexeme": "director William Shatner movies", "formula": "fb:phrase.Film_director"}
+{"lexeme": "director William Shatner movies", "formula": "fb:phrase.William_Shatner_Live"}
+{"lexeme": "lives", "formula": "(fb:rdf.type.prop fb:nounphrase.Person)"}
+{"lexeme": "lives", "formula": "fb:phrase.prop.occupation"}
+{"lexeme": "lives", "formula": "fb:phrase.prop.time"}
+{"lexeme": "languages", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "languages", "formula": "fb:phrase.prop.language"}
+{"lexeme": "rivers lakes", "formula": "(fb:rdf.type.prop fb:nounphrase.River)"}
+{"lexeme": "expansion", "formula": "fb:phrase.The_Expanse"}
+{"lexeme": "expansion", "formula": "fb:phrase.Expansion"}
+{"lexeme": "expansion", "formula": "fb:phrase.Expansive"}
+{"lexeme": "full form", "formula": "fb:phrase.prop.gross"}
+{"lexeme": "full form", "formula": "fb:phrase.prop.format"}
+{"lexeme": "full form", "formula": "fb:phrase.prop.type"}
+{"lexeme": "acted", "formula": "fb:phrase.prop.field"}
+{"lexeme": "acted", "formula": "fb:phrase.prop.deputy"}
+{"lexeme": "acted", "formula": "(fb:rdf.type.prop fb:nounphrase.Theatre)"}
+{"lexeme": "English", "formula": "fb:phrase.English"}
+{"lexeme": "English", "formula": "fb:phrase.The_Adventure_of_English"}
+{"lexeme": "English", "formula": "fb:phrase.An_English_Gentleman"}
+{"lexeme": "featuring", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "featuring", "formula": "(fb:rdf.type.prop fb:nounphrase.Single)"}
+{"lexeme": "featuring", "formula": "fb:phrase.prop.starring"}
+{"lexeme": "situated", "formula": "fb:phrase.prop.locatedInArea"}
+{"lexeme": "situated", "formula": "fb:phrase.prop.location"}
+{"lexeme": "situated", "formula": "fb:phrase.prop.residence"}
+{"lexeme": "founding year", "formula": "fb:phrase.prop.institution"}
+{"lexeme": "founding year", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "founding year", "formula": "fb:phrase.prop.foundingYear"}
+{"lexeme": "lady", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "lady", "formula": "fb:phrase.prop.partner"}
+{"lexeme": "lady", "formula": "fb:phrase.prop.child"}
+{"lexeme": "US presiden", "formula": "fb:phrase..us"}
+{"lexeme": "US presiden", "formula": "fb:phrase.Presiden_Republik_Indonesia"}
+{"lexeme": "US presiden", "formula": "fb:phrase.The_Gospel_of_Us"}
+{"lexeme": "Lincoln", "formula": "fb:phrase.Lincoln_Isham"}
+{"lexeme": "Lincoln", "formula": "fb:phrase.Clifford_Lincoln"}
+{"lexeme": "Lincoln", "formula": "fb:phrase.Lincoln_Lewis"}
+{"lexeme": "wast", "formula": "fb:phrase.Wasted_on_the_Young"}
+{"lexeme": "wast", "formula": "fb:phrase.Eli_Waste"}
+{"lexeme": "wast", "formula": "fb:phrase.Wasted"}
+{"lexeme": "date", "formula": "fb:phrase.prop.date"}
+{"lexeme": "date", "formula": "fb:phrase.prop.suppreddedDate"}
+{"lexeme": "date", "formula": "fb:phrase.prop.epoch"}
+{"lexeme": "happened", "formula": "fb:phrase.prop.event"}
+{"lexeme": "happened", "formula": "fb:phrase.prop.place"}
+{"lexeme": "happened", "formula": "(fb:rdf.type.prop fb:nounphrase.Event)"}
+{"lexeme": "movie", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "lead role", "formula": "fb:phrase.prop.purpose"}
+{"lexeme": "lead role", "formula": "fb:phrase.prop.part"}
+{"lexeme": "lead role", "formula": "fb:phrase.prop.role"}
+{"lexeme": "Ford Motor Company manufacturing plant", "formula": "fb:phrase.Ford_Motor_Company_Cincinnati_Plant"}
+{"lexeme": "Ford Motor Company manufacturing plant", "formula": "fb:phrase.Ford_Motor_Company_Assembly_Plant"}
+{"lexeme": "Ford Motor Company manufacturing plant", "formula": "fb:phrase.Motor_Manufacturing_Company"}
+{"lexeme": "Sigmund Freuds marriage", "formula": "fb:phrase.Sigmund_Freud"}
+{"lexeme": "Sigmund Freuds marriage", "formula": "fb:phrase.Sigmund_Freud_University_Vienna"}
+{"lexeme": "Sigmund Freuds marriage", "formula": "fb:phrase.Sigmund_Freud_Prize"}
+{"lexeme": "Predident Chirac", "formula": "fb:phrase.Jacques_Chirac"}
+{"lexeme": "Predident Chirac", "formula": "fb:phrase.Claude_Chirac"}
+{"lexeme": "Predident Chirac", "formula": "fb:phrase.Bernadette_Chirac"}
+{"lexeme": "number", "formula": "fb:phrase.prop.number"}
+{"lexeme": "type", "formula": "fb:phrase.prop.type"}
+{"lexeme": "type", "formula": "fb:phrase.prop.genre"}
+{"lexeme": "type", "formula": "fb:phrase.prop.person"}
+{"lexeme": "consist", "formula": "fb:phrase.prop.house"}
+{"lexeme": "consist", "formula": "fb:phrase.prop.board"}
+{"lexeme": "consist", "formula": "fb:phrase.prop.affiliation"}
+{"lexeme": "names", "formula": "fb:phrase.prop.otherName"}
+{"lexeme": "names", "formula": "fb:phrase.prop.name"}
+{"lexeme": "expert surfers", "formula": "fb:phrase.Experticity"}
+{"lexeme": "expert surfers", "formula": "fb:phrase.The_Prince_and_the_Surfer"}
+{"lexeme": "expert surfers", "formula": "fb:phrase.Expert"}
+{"lexeme": "formal language", "formula": "fb:phrase.Formal_language"}
+{"lexeme": "formal language", "formula": "fb:phrase.Alphabet_(formal_languages)"}
+{"lexeme": "formal language", "formula": "fb:phrase.Legal_formalism"}
+{"lexeme": "smallest size city", "formula": "fb:phrase.prop.format"}
+{"lexeme": "smallest size city", "formula": "fb:phrase.volume"}
+{"lexeme": "smallest size city", "formula": "fb:phrase.prop.mass"}
+{"lexeme": "Meryl Streeps oldest child", "formula": "fb:phrase.Meryl_Streep"}
+{"lexeme": "Meryl Streeps oldest child", "formula": "fb:phrase.Meryl_Streep_in_the_2000s"}
+{"lexeme": "Meryl Streeps oldest child", "formula": "fb:phrase.Meryl_L._Streep"}
+{"lexeme": "passed", "formula": "fb:phrase.course"}
+{"lexeme": "passed", "formula": "fb:phrase.prop.course"}
+{"lexeme": "passed", "formula": "(fb:rdf.type.prop fb:nounphrase.Legislature)"}
+{"lexeme": "count", "formula": "fb:phrase.prop.time"}
+{"lexeme": "count", "formula": "(fb:rdf.type.prop fb:nounphrase.Judge)"}
+{"lexeme": "count", "formula": "fb:phrase.prop.number"}
+{"lexeme": "Facebook founder", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "music", "formula": "fb:phrase.prop.director"}
+{"lexeme": "music", "formula": "fb:phrase.prop.musicComposer"}
+{"lexeme": "music", "formula": "(fb:rdf.type.prop fb:nounphrase.MusicGenre)"}
+{"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.Naked_and_Famous"}
+{"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.The_Famous_Woman"}
+{"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.It's_Tough_to_Be_Famous"}
+{"lexeme": "died", "formula": "fb:phrase.prop.deathPlace"}
+{"lexeme": "died", "formula": "fb:phrase.prop.child"}
+{"lexeme": "died", "formula": "fb:phrase.prop.deathCause"}
+{"lexeme": "spouses", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "spouses", "formula": "fb:phrase.prop.partner"}
+{"lexeme": "Walt Disneys", "formula": "fb:phrase.Walt_Disney"}
+{"lexeme": "Walt Disneys", "formula": "fb:phrase.Walt_Disney_Records"}
+{"lexeme": "Walt Disneys", "formula": "fb:phrase.Walt_Disney_Television"}
+{"lexeme": "released date", "formula": "fb:phrase.prop.releaseDate"}
+{"lexeme": "released date", "formula": "fb:phrase.prop.epoch"}
+{"lexeme": "released date", "formula": "fb:phrase.prop.latestReleaseDate"}
+{"lexeme": "cinema", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "cinema", "formula": "fb:phrase.prop.picture"}
+{"lexeme": "cinema", "formula": "fb:phrase.prop.film"}
+{"lexeme": "famous scientist", "formula": "(fb:rdf.type.prop fb:nounphrase.Scientist)"}
+{"lexeme": "famous scientist", "formula": "fb:phrase.prop.established"}
+{"lexeme": "famous scientist", "formula": "fb:phrase.prop.name"}
+{"lexeme": "current Yyork City mayor", "formula": "fb:phrase.prop.city"}
+{"lexeme": "current Yyork City mayor", "formula": "(fb:rdf.type.prop fb:nounphrase.City)"}
+{"lexeme": "current Yyork City mayor", "formula": "(fb:rdf.type.prop fb:nounphrase.Place)"}
+{"lexeme": "Number", "formula": "fb:phrase.A_Number"}
+{"lexeme": "Number", "formula": "fb:phrase.Number"}
+{"lexeme": "Number", "formula": "fb:phrase.By_the_Numbers"}
+{"lexeme": "tallest mountain", "formula": "(fb:rdf.type.prop fb:nounphrase.Mountain)"}
+{"lexeme": "tallest mountain", "formula": "fb:phrase.prop.elevation"}
+{"lexeme": "tallest mountain", "formula": "fb:phrase.prop.mass"}
+{"lexeme": "breath", "formula": "fb:phrase.prop.mouthPlace"}
+{"lexeme": "breath", "formula": "fb:phrase.prop.associate"}
+{"lexeme": "breath", "formula": "fb:phrase.prop.mouthCountry"}
+{"lexeme": "breathe", "formula": "fb:phrase.prop.party"}
+{"lexeme": "breathe", "formula": "fb:phrase.prop.place"}
+{"lexeme": "breathe", "formula": "(fb:rdf.type.prop fb:nounphrase.Play)"}
+{"lexeme": "Michelle spouse", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "Michelle spouse", "formula": "fb:phrase.prop.partner"}
+{"lexeme": "making", "formula": "fb:phrase.prop.type"}
+{"lexeme": "making", "formula": "fb:phrase.prop.genre"}
+{"lexeme": "making", "formula": "fb:phrase.prop.species"}
+{"lexeme": "river Isar", "formula": "fb:phrase.Isar"}
+{"lexeme": "river Isar", "formula": "fb:phrase.Isares"}
+{"lexeme": "river Isar", "formula": "fb:phrase.ISAR"}
+{"lexeme": "sea ocean", "formula": "fb:phrase.Ocean_Sea_(novel)"}
+{"lexeme": "sea ocean", "formula": "fb:phrase.This_Is_the_Sea"}
+{"lexeme": "sea ocean", "formula": "fb:phrase.Sea_Life_Bangkok_Ocean_World"}
+{"lexeme": "end", "formula": "fb:phrase.prop.destination"}
+{"lexeme": "end", "formula": "fb:phrase.prop.purpose"}
+{"lexeme": "end", "formula": "fb:phrase.prop.fate"}
+{"lexeme": "person", "formula": "(fb:rdf.type.prop fb:nounphrase.Person)"}
+{"lexeme": "person", "formula": "fb:phrase.prop.person"}
+{"lexeme": "flows", "formula": "fb:phrase.prop.outflow"}
+{"lexeme": "flows", "formula": "fb:phrase.prop.inflow"}
+{"lexeme": "flows", "formula": "fb:phrase.prop.course"}
+{"lexeme": "death", "formula": "fb:phrase.prop.deathPlace"}
+{"lexeme": "death", "formula": "fb:phrase.prop.fate"}
+{"lexeme": "death", "formula": "fb:phrase.prop.deathDate"}
+{"lexeme": "Texas governor", "formula": "fb:phrase.Governor_of_Texas"}
+{"lexeme": "Texas governor", "formula": "fb:phrase.Texas_Lieutenant_Governor"}
+{"lexeme": "Texas governor", "formula": "fb:phrase.Lieutenant_Governor_of_Texas"}
+{"lexeme": "politicians", "formula": "(fb:rdf.type.prop fb:nounphrase.Politician)"}
+{"lexeme": "alma", "formula": "fb:phrase.prop.almaMater"}
+{"lexeme": "alma", "formula": "(fb:rdf.type.prop fb:nounphrase.School)"}
+{"lexeme": "alma", "formula": "fb:phrase.prop.president"}
+{"lexeme": "river", "formula": "(fb:rdf.type.prop fb:nounphrase.River)"}
+{"lexeme": "river", "formula": "fb:phrase.prop.river"}
+{"lexeme": "daughter", "formula": "fb:phrase.prop.child"}
+{"lexeme": "daughter", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "daughter", "formula": "fb:phrase.prop.parent"}
+{"lexeme": "Canada capital city", "formula": "fb:phrase.City_of_Capitals"}
+{"lexeme": "Canada capital city", "formula": "fb:phrase.Capital_City"}
+{"lexeme": "Canada capital city", "formula": "fb:phrase.Capital_city"}
+{"lexeme": "son daughter", "formula": "fb:phrase.prop.child"}
+{"lexeme": "son daughter", "formula": "fb:phrase.prop.author"}
+{"lexeme": "son daughter", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "territory", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "territory", "formula": "fb:phrase.prop.country"}
+{"lexeme": "territory", "formula": "fb:phrase.prop.territory"}
+{"lexeme": "height", "formula": "fb:phrase.prop.height"}
+{"lexeme": "height", "formula": "fb:phrase.height"}
+{"lexeme": "names", "formula": "fb:phrase.prop.otherName"}
+{"lexeme": "Gus Frings role", "formula": "fb:phrase.Gus_Fring"}
+{"lexeme": "Gus Frings role", "formula": "fb:phrase.Fring"}
+{"lexeme": "Gus Frings role", "formula": "fb:phrase.Frings"}
+{"lexeme": "Director William Shartner", "formula": "fb:phrase.William_Morrison_(director)"}
+{"lexeme": "Director William Shartner", "formula": "fb:phrase.Director"}
+{"lexeme": "Director William Shartner", "formula": "fb:phrase.Film_director"}
+{"lexeme": "worked", "formula": "fb:phrase.prop.service"}
+{"lexeme": "worked", "formula": "(fb:rdf.type.prop fb:nounphrase.Play)"}
+{"lexeme": "worked", "formula": "(fb:rdf.type.prop fb:nounphrase.Work)"}
+{"lexeme": "spoken", "formula": "fb:phrase.prop.spokenIn"}
+{"lexeme": "spoken", "formula": "fb:phrase.prop.language"}
+{"lexeme": "spoken", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "mountains", "formula": "(fb:rdf.type.prop fb:nounphrase.Mountain)"}
+{"lexeme": "mountains", "formula": "fb:phrase.prop.elevation"}
+{"lexeme": "mountains", "formula": "fb:phrase.prop.mass"}
+{"lexeme": "Nanga Parbat", "formula": "fb:phrase.Nanga_Parbat"}
+{"lexeme": "Nanga Parbat", "formula": "fb:phrase.Nanga_Parbat_Mountain_(Canada)"}
+{"lexeme": "Nanga Parbat", "formula": "fb:phrase.2013_Nanga_Parbat_massacre"}
+{"lexeme": "Amazon Eve", "formula": "fb:phrase.Amazon_Eve"}
+{"lexeme": "Amazon Eve", "formula": "fb:phrase.Amazons"}
+{"lexeme": "Amazon Eve", "formula": "fb:phrase.Amazon"}
+{"lexeme": "kings", "formula": "(fb:rdf.type.prop fb:nounphrase.Monarch)"}
+{"lexeme": "kings", "formula": "fb:phrase.prop.monarch"}
+{"lexeme": "kings", "formula": "fb:phrase.prop.house"}
+{"lexeme": "Farmers Almanac", "formula": "fb:phrase.Almanac"}
+{"lexeme": "Farmers Almanac", "formula": "fb:phrase.Schott's_Almanac"}
+{"lexeme": "Farmers Almanac", "formula": "fb:phrase.Almanac_of_Fall"}
+{"lexeme": "writes", "formula": "(fb:rdf.type.prop fb:nounphrase.Writer)"}
+{"lexeme": "writes", "formula": "fb:phrase.prop.writer"}
+{"lexeme": "writes", "formula": "fb:phrase.prop.author"}
+{"lexeme": "Vienna", "formula": "fb:phrase.Vienna"}
+{"lexeme": "Vienna", "formula": "fb:phrase.Vienna,_Virginia"}
+{"lexeme": "Vienna", "formula": "fb:phrase.Lusthaus_(Vienna)"}
+{"lexeme": "currency", "formula": "(fb:rdf.type.prop fb:nounphrase.Currency)"}
+{"lexeme": "currency", "formula": "fb:phrase.prop.currency"}
+{"lexeme": "heaviest player", "formula": "(fb:rdf.type.prop fb:nounphrase.BasketballPlayer)"}
+{"lexeme": "heaviest player", "formula": "fb:phrase.prop.participant"}
+{"lexeme": "heaviest player", "formula": "(fb:rdf.type.prop fb:nounphrase.Actor)"}
+{"lexeme": "Chicago Bulls", "formula": "fb:phrase.Chicago_Bulls"}
+{"lexeme": "Chicago Bulls", "formula": "fb:phrase.2010\u201311_Chicago_Bulls_season"}
+{"lexeme": "Chicago Bulls", "formula": "fb:phrase.Chicago_Bull"}
+{"lexeme": "Salt Lake City", "formula": "fb:phrase.Salt_Lake_City"}
+{"lexeme": "Salt Lake City", "formula": "fb:phrase.Chinatown,_Salt_Lake_City"}
+{"lexeme": "Salt Lake City", "formula": "fb:phrase.Salt_Lake_City_Weekly"}
+{"lexeme": "languages", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "Estonia", "formula": "fb:phrase.Estonia"}
+{"lexeme": "Estonia", "formula": "fb:phrase.Miss_Estonia"}
+{"lexeme": "Estonia", "formula": "fb:phrase.Turva,_Estonia"}
+{"lexeme": "seats", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "seats", "formula": "fb:phrase.prop.position"}
+{"lexeme": "seats", "formula": "fb:phrase.prop.place"}
+{"lexeme": "home stadium", "formula": "fb:phrase.prop.homeStadium"}
+{"lexeme": "home stadium", "formula": "(fb:rdf.type.prop fb:nounphrase.Stadium)"}
+{"lexeme": "home stadium", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "FC Porto", "formula": "fb:phrase.FC_Porto"}
+{"lexeme": "FC Porto", "formula": "fb:phrase.FC_Porto_(handball)"}
+{"lexeme": "FC Porto", "formula": "fb:phrase.FC_Porto_(basketball)"}
+{"lexeme": "pope", "formula": "(fb:rdf.type.prop fb:nounphrase.Pope)"}
+{"lexeme": "pope", "formula": "(fb:rdf.type.prop fb:nounphrase.ChristianBishop)"}
+{"lexeme": "pope", "formula": "fb:phrase.prop.leader"}
+{"lexeme": "Vatican Television", "formula": "fb:phrase.Vatican_Television_Center"}
+{"lexeme": "Vatican Television", "formula": "fb:phrase.Vatican_City"}
+{"lexeme": "Vatican Television", "formula": "fb:phrase.Secrets_of_the_Vatican"}
+{"lexeme": "Angela Merkel", "formula": "fb:phrase.Angela_Merkel"}
+{"lexeme": "Angela Merkel", "formula": "fb:phrase.Reinhard_Merkel"}
+{"lexeme": "Angela Merkel", "formula": "fb:phrase.Garlieb_Merkel"}
+{"lexeme": "s birth", "formula": "fb:phrase.prop.birthPlace"}
+{"lexeme": "s birth", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "s birth", "formula": "fb:phrase.prop.family"}
+{"lexeme": "Ceres", "formula": "fb:phrase.Ceres_(organization)"}
+{"lexeme": "Ceres", "formula": "fb:phrase.CERES_(satellite)"}
+{"lexeme": "Ceres", "formula": "fb:phrase.Ceres_F.C."}
+{"lexeme": "discovered", "formula": "fb:phrase.prop.ground"}
+{"lexeme": "discovered", "formula": "fb:phrase.prop.knownFor"}
+{"lexeme": "discovered", "formula": "fb:phrase.prop.discovered"}
+{"lexeme": "countries", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "countries", "formula": "fb:phrase.prop.governmentCountry"}
+{"lexeme": "European Union", "formula": "fb:phrase.European_Union"}
+{"lexeme": "European Union", "formula": "fb:phrase.European_Taekwondo_Union"}
+{"lexeme": "European Union", "formula": "fb:phrase.Council_of_the_European_Union"}
+{"lexeme": "Euro", "formula": "fb:phrase.Euro"}
+{"lexeme": "Euro", "formula": "fb:phrase.Euro_Tower"}
+{"lexeme": "Euro", "formula": "fb:phrase.Euro_sign"}
+{"lexeme": "adopted", "formula": "fb:phrase.prop.introduced"}
+{"lexeme": "adopted", "formula": "fb:phrase.prop.established"}
+{"lexeme": "king", "formula": "fb:phrase.prop.monarch"}
+{"lexeme": "king", "formula": "fb:phrase.prop.leader"}
+{"lexeme": "king", "formula": "fb:phrase.prop.child"}
+{"lexeme": "Goethe", "formula": "fb:phrase.Goethe_(train)"}
+{"lexeme": "Goethe", "formula": "fb:phrase.Mount_Goethe"}
+{"lexeme": "Goethe", "formula": "fb:phrase.Goethe_Prize"}
+{"lexeme": "Storm", "formula": "fb:phrase.September_Storm"}
+{"lexeme": "Storm", "formula": "fb:phrase.Madonna_of_the_Storm"}
+{"lexeme": "Storm", "formula": "fb:phrase.This_Storm"}
+{"lexeme": "Sea", "formula": "fb:phrase.This_Is_the_Sea"}
+{"lexeme": "Sea", "formula": "fb:phrase.Sea*a"}
+{"lexeme": "Sea", "formula": "fb:phrase.Is_It_the_Sea%3F"}
+{"lexeme": "Galilee", "formula": "fb:phrase.Galilee"}
+{"lexeme": "Galilee", "formula": "fb:phrase.Wedding_in_Galilee"}
+{"lexeme": "Galilee", "formula": "fb:phrase.Galilee_(disambiguation)"}
+{"lexeme": "painted", "formula": "fb:phrase.prop.picture"}
+{"lexeme": "painted", "formula": "fb:phrase.prop.colour"}
+{"lexeme": "painted", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
+{"lexeme": "country", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "Mecca", "formula": "fb:phrase.Mecca"}
+{"lexeme": "Mecca", "formula": "fb:phrase.Mecca,_California"}
+{"lexeme": "Mecca", "formula": "fb:phrase.Mecca_Metro"}
+{"lexeme": "Harry Potter", "formula": "fb:phrase.Harry_Potter"}
+{"lexeme": "Harry Potter", "formula": "fb:phrase.Harry_and_the_Potters"}
+{"lexeme": "Harry Potter", "formula": "fb:phrase.The_Harry_Potter_Lexicon"}
+{"lexeme": "height", "formula": "fb:phrase.prop.height"}
+{"lexeme": "author", "formula": "fb:phrase.prop.author"}
+{"lexeme": "author", "formula": "fb:phrase.prop.writer"}
+{"lexeme": "author", "formula": "(fb:rdf.type.prop fb:nounphrase.Architect)"}
+{"lexeme": "persons", "formula": "(fb:rdf.type.prop fb:nounphrase.Person)"}
+{"lexeme": "persons", "formula": "fb:phrase.prop.person"}
+{"lexeme": "Viena", "formula": "fb:phrase.Viena_Balen"}
+{"lexeme": "Viena", "formula": "fb:phrase.Viena_expedition"}
+{"lexeme": "Chinese currency", "formula": "fb:phrase.History_of_Chinese_currency"}
+{"lexeme": "Chinese currency", "formula": "fb:phrase.Chinese_cash_(currency_unit)"}
+{"lexeme": "Chinese currency", "formula": "fb:phrase.Currence"}
+{"lexeme": "Chicago Bulls player", "formula": "fb:phrase.Chicago_Bulls"}
+{"lexeme": "Chicago Bulls player", "formula": "fb:phrase.Chicago_Bull"}
+{"lexeme": "Chicago Bulls player", "formula": "fb:phrase.List_of_Chicago_Bulls_(AFL)_players"}
+{"lexeme": "maximum weight", "formula": "fb:phrase.prop.weight"}
+{"lexeme": "time", "formula": "fb:phrase.prop.time"}
+{"lexeme": "zone", "formula": "fb:phrase.prop.timeZone"}
+{"lexeme": "zone", "formula": "fb:phrase.prop.region"}
+{"lexeme": "zone", "formula": "fb:phrase.prop.territory"}
+{"lexeme": "lies", "formula": "fb:phrase.prop.locatedInArea"}
+{"lexeme": "lies", "formula": "fb:phrase.prop.isPartOf"}
+{"lexeme": "lies", "formula": "fb:phrase.prop.position"}
+{"lexeme": "commonly spoken", "formula": "fb:phrase.prop.spokenIn"}
+{"lexeme": "commonly spoken", "formula": "(fb:rdf.type.prop fb:nounphrase.Language)"}
+{"lexeme": "commonly spoken", "formula": "fb:phrase.prop.language"}
+{"lexeme": "accommodate", "formula": "fb:phrase.prop.place"}
+{"lexeme": "accommodate", "formula": "(fb:rdf.type.prop fb:nounphrase.Place)"}
+{"lexeme": "accommodate", "formula": "fb:phrase.prop.award"}
+{"lexeme": "Vatican Telivision", "formula": "fb:phrase.Secrets_of_the_Vatican"}
+{"lexeme": "Vatican Telivision", "formula": "fb:phrase.Vatican"}
+{"lexeme": "Vatican Telivision", "formula": "fb:phrase.Vatican_Library"}
+{"lexeme": "birth", "formula": "fb:phrase.prop.birthPlace"}
+{"lexeme": "birth", "formula": "fb:phrase.prop.origin"}
+{"lexeme": "birth", "formula": "fb:phrase.prop.family"}
+{"lexeme": "discoverer", "formula": "fb:phrase.prop.discoverer"}
+{"lexeme": "discoverer", "formula": "fb:phrase.prop.author"}
+{"lexeme": "discoverer", "formula": "(fb:rdf.type.prop fb:nounphrase.Holiday)"}
+{"lexeme": "EU countries", "formula": "fb:phrase.Eus"}
+{"lexeme": "EU countries", "formula": "fb:phrase.Eu-"}
+{"lexeme": "EU countries", "formula": "fb:phrase.EUS"}
+{"lexeme": "adopted", "formula": "fb:phrase.prop.introduced"}
+{"lexeme": "Michael Jacksons", "formula": "fb:phrase.Michael_Jackson"}
+{"lexeme": "Michael Jacksons", "formula": "fb:phrase.Michael_Jackson's_Ghosts"}
+{"lexeme": "Michael Jacksons", "formula": "fb:phrase.Michael_Jackson_(writer)"}
+{"lexeme": "caused", "formula": "fb:phrase.prop.author"}
+{"lexeme": "caused", "formula": "fb:phrase.prop.instrument"}
+{"lexeme": "caused", "formula": "fb:phrase.prop.result"}
+{"lexeme": "painter", "formula": "fb:phrase.prop.picture"}
+{"lexeme": "painter", "formula": "(fb:rdf.type.prop fb:nounphrase.Painter)"}
+{"lexeme": "painter", "formula": "fb:phrase.prop.production"}
+{"lexeme": "country", "formula": "(fb:rdf.type.prop fb:nounphrase.Country)"}
+{"lexeme": "star", "formula": "(fb:rdf.type.prop fb:nounphrase.Star)"}
+{"lexeme": "oldest child", "formula": "fb:phrase.prop.child"}
+{"lexeme": "founder", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "marital status", "formula": "fb:phrase.prop.status"}
+{"lexeme": "spouse", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "Facebook founder", "formula": "fb:phrase.prop.founder"}
+{"lexeme": "Michelle spouse", "formula": "fb:phrase.prop.spouse"}
+{"lexeme": "person", "formula": "(fb:rdf.type.prop fb:nounphrase.Person)"}
