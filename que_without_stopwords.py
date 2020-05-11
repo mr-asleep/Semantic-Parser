@@ -12,10 +12,10 @@ for w in customize_stop_words:
     spacy_nlp.vocab[w].is_stop = False
 
 f= open("./que.json", "w")
-f1= open("./que.txt","w")
 f.write("[")
 data= pd.read_csv("./kr2ml_train.tsv",sep='\t', header=None)
 flag=0
+n=data.values.shape[0]
 for i in range(data.values.shape[0]):
 	que= data.values[i][0]
 	que= que[0].lower() + que[1:] 
@@ -33,7 +33,6 @@ for i in range(data.values.shape[0]):
 	dic["utterance"]=text
 	json_object = json.dumps(dic)
 	f.write(json_object) 
-	f.write(",\n")
-	f1.write(text)
-	f1.write("\n")
+	if i != n-1:
+		f.write(",\n")
 f.write("]")
