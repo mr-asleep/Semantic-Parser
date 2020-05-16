@@ -2,21 +2,17 @@ import json
 import os
 from textrazor import *
 import re
-# data= pd.read_csv("./kr2ml_train.tsv",sep='\t', header=None)
-# client = TextRazor('a02e9cce51c6c087f150269a4eab62812057696716b70eb1f2e0a8fd', extractors=["entities","phrases"])
-# for i in range(data.values.shape[0]):
-# 	que= data.values[i][0]
-# 	# print(que.replace("'", ""))
-# 	if i==0:
-# 		text="curl -XPOST \'https://earldemo.sda.tech/earl/api/processQuery\' -H \'Content-Type:application/json\' -d\' {\"nlquery\":\""+que.replace("'", "")+"\", \"pagerankflag\": false}\' > ./earl_api_output.txt"
-# 	else:
-# 		text="curl -XPOST \'https://earldemo.sda.tech/earl/api/processQuery\' -H \'Content-Type:application/json\' -d\' {\"nlquery\":\""+que.replace("'", "")+"\", \"pagerankflag\": false}\' >> ./earl_api_output.txt"
-# 	os.system(text)
-# 	os.system('echo "" >> ./earl_api_output.txt')
-# 	print(i)
+# with open('./que.txt') as f:
+# 	for i,que in enumerate(f):
+# 		print(que)
+# 		if i==0:
+# 			text="curl -XPOST \'https://earldemo.sda.tech/earl/api/processQuery\' -H \'Content-Type:application/json\' -d\' {\"nlquery\":\""+que+"\", \"pagerankflag\": false}\' > ./earl_api_output.txt"
+# 		else:
+# 			text="curl -XPOST \'https://earldemo.sda.tech/earl/api/processQuery\' -H \'Content-Type:application/json\' -d\' {\"nlquery\":\""+que+"\", \"pagerankflag\": false}\' >> ./earl_api_output.txt"
+# 		os.system(text)
+# 		os.system('echo "" >> ./earl_api_output.txt')
 
 file1 = open("./output.lexicon","w")
-# f1 = open("./que.txt")
 results = []
 with open('earl_api_output.txt') as f:
 	for jsonObj in f:
@@ -27,7 +23,6 @@ with open('earl_api_output.txt') as f:
 			print("Error",i)
 f.close()
 
-np=[]
 lexeme_count={}
 for result in results:
 	type=result["ertypes"]
@@ -55,7 +50,7 @@ for result in results:
 				print(j["chunk"])
 				pass
 
-f1= open('dbpedia.lexicon','w')
+f1= open('dbpedia.lexicon','w') # gets rid of the special characters in the formulas in output.lexicon
 with open('output.lexicon') as f:
 	for jsonObj in f:
 		resultDict = json.loads(jsonObj)

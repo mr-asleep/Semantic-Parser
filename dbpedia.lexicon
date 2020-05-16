@@ -1,4 +1,3 @@
-{"lexeme": "IYCM", "formula": "fb:phrase.Youth_Climate_Movement"}
 {"lexeme": "stand", "formula": "fb:phrase.Stand_By"}
 {"lexeme": "stand", "formula": "fb:phrase.Stand_on_It"}
 {"lexeme": "stand", "formula": "fb:phrase.Stand"}
@@ -211,7 +210,7 @@
 {"lexeme": "Facebook", "formula": "fb:phrase.Facebook_Paper"}
 {"lexeme": "Facebook", "formula": "fb:phrase.Censorship_of_Facebook"}
 {"lexeme": "soundtrack", "formula": "(fb:rdf.type.prop fb:nounphrase.Film)"}
-{"lexeme": "Cameron Titanic", "formula": "fb:phrase.Back_to_Titanic"}
+{"lexeme": "Cameron s Titanic", "formula": "fb:phrase.Back_to_Titanic"}
 {"lexeme": "Cameron s Titanic", "formula": "fb:phrase.Remember_the_Titans"}
 {"lexeme": "Cameron s Titanic", "formula": "fb:phrase.SOS_Titanic"}
 {"lexeme": "composed", "formula": "fb:phrase.prop.composer"}
@@ -244,7 +243,7 @@
 {"lexeme": "originated", "formula": "fb:phrase.prop.origin"}
 {"lexeme": "originated", "formula": "fb:phrase.prop.date"}
 {"lexeme": "originated", "formula": "fb:phrase.prop.result"}
-{"lexeme": "Asimov Foundation series", "formula": "fb:phrase.Robot_series_Asimov"}
+{"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Robot_series_Asimov"}
 {"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Foundation_Isaac_Asimov_novel"}
 {"lexeme": "Asimov s Foundation series", "formula": "fb:phrase.Foundation_series"}
 {"lexeme": "Show", "formula": "fb:phrase.prop.show"}
@@ -729,7 +728,7 @@
 {"lexeme": "music", "formula": "fb:phrase.prop.director"}
 {"lexeme": "music", "formula": "fb:phrase.prop.musicComposer"}
 {"lexeme": "music", "formula": "(fb:rdf.type.prop fb:nounphrase.MusicGenre)"}
-{"lexeme": "famous Cameron Titanic", "formula": "fb:phrase.Naked_and_Famous"}
+{"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.Naked_and_Famous"}
 {"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.The_Famous_Woman"}
 {"lexeme": "famous Cameron s Titanic", "formula": "fb:phrase.Its_Tough_to_Be_Famous"}
 {"lexeme": "died", "formula": "fb:phrase.prop.deathPlace"}

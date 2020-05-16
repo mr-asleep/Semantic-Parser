@@ -96,7 +96,7 @@ for i,s in enumerate(sparql):
 		except:
 			pass
 	sparql[i]=("").join(l)
-	print(i)
+	# print(i)
 
 dict = {'Question' : utterance, 'Logical Formula' : formula,'Sparql Query':sparql}
 df = pd.DataFrame(dict)
