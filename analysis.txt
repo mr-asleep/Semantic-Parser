@@ -1,0 +1,46 @@
+ What is the biggest stadium in Spain ?- 0
+ Show me all museums in London - 0
+ Was Sigmund Freud married ? - 1 /2
+ Who was married to president Chirac ? - 1
+ Where is Fort Knox located ? - 1
+ What is the official language of Suriname ? - 1
+ Give me the birth place of Frank Sinatra - 1
+ Who is the oldest child of Meryl Streep ? - 1 /2
+ How often did Jane Fonda marry ? - 1 /2
+ Is James Bond married ? - 1 /2
+ Who was influenced by Socrates ? - 1
+ Give me all actors who were born in Berlin - 0
+ What is the capital of Canada ? - 1
+ Did Che Guevara have children ? - 1 /2
+ What did Bruce Carver die from ? - 1
+ What are the official languages of the Philippines ? - 1
+ What is the name of the biggest stadium in Spain ? - 0
+ list all the museums in  London - 0
+ Where is the location of Fort Knox ? - 1
+ Tell me the name of the official language of Surinam - 1
+ where was  Frank Sinatra  born? - 1
+ Does James Bond have a spouse? -1 /2
+ Whom did Socrates influenced ? - 1 /2
+ BBC Wildlife Specials was presented by? - 0
+ Which city is the capital of  Canada ? - 0
+ What was to reason for Bruce Carver 's death ? - 0
+ Where does  Limerick Lake  situated? - 1
+ What is the population of capital of Australia ? - 0
+ Name the biggest stadium in Spain ? - 0
+ Give me a list of all museums in London - 0
+ Whom Predident Chirac married to? - 0
+ Where is Fort Knox situated ? - 1
+ Where was Frank Sinatra born? - 1
+ What is the name of smallest size city in Germany ? - 1
+ How many spouses did Jane Fonda has ? - 1
+ Socrates influenced whom? - 1
+ When was the death of Michael Jackson? - 1
+ List out all actors who have their birth place as Berlin - 0
+ Did Che Guevara have a son or daughter or both ? - 1 /2
+ What is the height of Claudia Schiffer ? - 1
+ How did  Bruce Carver die ? - 1
+ List out official languages spoken in Philippines - 0
+ Give me the currency of China - 1
+ What is the time zone of Salt Lake City? - 0
+ Which languages are spoken in Estonia? - 0
+ What is the height of Amazon Eve? - 1
